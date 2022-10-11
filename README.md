@@ -1,7 +1,7 @@
 # residtest
 Simple C++ test program to play a note writing Commodore64 SID register using libresid
 
-This is a test for libresid, written by Felice Murolo (2022) linuxboy@REMOVEfel.hopto.org
+This is a test for libresid. This test was written by Felice Murolo (2022) linuxboy@REMOVEfel.hopto.org
 
 NO COPYRIGHT ON THIS SOURCES. Share and modify like you want.
 
