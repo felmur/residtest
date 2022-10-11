@@ -18,8 +18,11 @@ residtest will play the note on pulseaudio device, standard audio device for lin
 
 # HOW TO BUILD
 mkdir build
+
 cd build
+
 cmake ../
+
 make
 
 
