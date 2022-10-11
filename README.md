@@ -16,7 +16,7 @@ In this program, we emulate the C64 basic program that you see in the sources wh
 residtest will play the note on pulseaudio device, standard audio device for linux distributions that use KDEPlasma as desktop.
 
 
-# HOW TO BUILD
+# How to build
 mkdir build
 
 cd build
@@ -25,4 +25,11 @@ cmake ../
 
 make
 
+# Also in this repository
+In this repository, you can find the file: "sid_frequencies.csv". In this file, you can found the value to set frequency register of voices of SID, to obtain the correct musical note.
+
+# Thanks to:
+Simon Owen for cmake port of libresid and for some good information on how to use the library
+Dag Lem for libresid sources
+Danny van Bruggen for sid_frequencies.csv
 
