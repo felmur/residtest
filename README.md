@@ -30,6 +30,9 @@ In this repository, you can find the file: "sid_frequencies.csv". In this file, 
 
 # Thanks to:
 Simon Owen for cmake port of libresid and for some good information on how to use the library
+
 Dag Lem for libresid sources
+
 Danny van Bruggen for sid_frequencies.csv
+
 
