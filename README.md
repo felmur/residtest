@@ -14,3 +14,9 @@ with his Attack,Decay,Sustain,Release.
 residtest will play the note on pulseaudio device, standard audio device for linux distributions that
 use KDEPlasma as desktop.
 
+# HOW TO BUILD
+mkdir build
+cd build
+cmake ../
+make
+
